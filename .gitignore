@@ -1,3 +1,34 @@
+# 忽略平台IO生成的文件
 .pio
+
+# 忽略VSCode的配置文件
 .vscode
+
+# 忽略IDEA的配置文件
 .idea
+
+# 忽略Python编译的字节码文件
+__pycache__/
+*.py[cod]
+
+# 忽略日志文件
+*.log
+
+# 忽略临时文件
+*.tmp
+
+# 忽略Node.js的依赖文件
+node_modules/
+
+# 忽略构建生成的文件
+dist/
+build/
+
+# 忽略环境变量文件
+.env
+
+# 忽略MacOS的DS_Store文件
+.DS_Store
+
+# 忽略Windows的Thumbs.db文件
+Thumbs.db
